@@ -1,0 +1,1 @@
+CONSENSUS=Rhihy1_denovoLibTEs_filtered_Blastclust.fa
